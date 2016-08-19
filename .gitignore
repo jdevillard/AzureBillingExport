@@ -1,0 +1,5 @@
+AzureBillingExport.Console/bin/
+AzureBillingExport.Console/obj/
+AzureBillingExport.Test/bin/
+AzureBillingExport.Test/obj/
+packages/
